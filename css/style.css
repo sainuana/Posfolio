@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body {
+
+  background:url("/assets/BG22.png");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+
+.active{
+  color:rgb(0, 0, 0) !important;
+
+}
+
+h1{
+ 
+  color :rgb(177, 6, 29);
+  font-family: 'IM Fell English SC', serif;
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+p{
+  color :rgb(159, 32, 0);
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+}
+
+h2{
+  color :rgb(3, 3, 2);
+  font-family: 'Trirong', serif;
+  font-size: 30px;
+  font-weight: bolder;
+ 
+}
+
+h6{
+  color :rgb(181, 0, 0);
+  font-family: 'Pattaya', sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+ 
+}
+
+
+a{
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-family: 'IM Fell English SC', serif;
+  font-weight: bolder;
+
+}
+
+
+
